@@ -32,9 +32,9 @@ Designed for high-density urban crime monitoring, this application dynamically a
 
 The system includes pre-configured, high-precision station coordinates and dataset mappings for **11 urban centers**:
 
-* **Bengaluru** *(Cubbon Park, Indiranagar, Koramangala, Malleswaram, Commercial Street, Jayanagar, Shivajinagar, Frazer Town)*
-* **Mysuru** *(Devaraja, Kuvempunagar, Laxmipuram, Jayalakshmipuram, Mandi, Vidyaranyapuram, N.R. Station, Metagalli)*
-* **Mangaluru** *(Bunder North, Kadri, Pandeshwar, Urwa, Barke)*
+* **Bengaluru** *(Cubbon Park, Indiranagar, Koramangala, Malleswaram, Commercial Street, Jayanagar, Shivajinagar, Frazer Town,etc)*
+* **Mysuru** *(Devaraja, Kuvempunagar, Laxmipuram, Jayalakshmipuram, Mandi, Vidyaranyapuram, N.R. Station, Metagalli,etc)*
+* **Mangaluru** *(Bunder North, Kadri, Pandeshwar, Urwa, Barke,etc)*
 * **Dharwad** *(Dharwad Town, Dharwad Suburban, Vidyagiri, Market Station)*
 * **Hassan** *(Hassan Town, Hassan Extension, Traffic Station, Penshan Mohalla)*
 * **Hubballi** *(Hubballi Suburban, Vidyanagar, Gokul Road, Kamripeth, Bendigeri)*
